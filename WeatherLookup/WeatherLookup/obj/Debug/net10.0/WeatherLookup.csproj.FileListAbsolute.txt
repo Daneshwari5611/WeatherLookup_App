@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\bin\Debug\net10.0\WeatherLookup.exe
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\bin\Debug\net10.0\WeatherLookup.deps.json
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\bin\Debug\net10.0\WeatherLookup.runtimeconfig.json
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\bin\Debug\net10.0\WeatherLookup.dll
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\bin\Debug\net10.0\WeatherLookup.pdb
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\obj\Debug\net10.0\WeatherLookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\obj\Debug\net10.0\WeatherLookup.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\obj\Debug\net10.0\WeatherLookup.AssemblyInfo.cs
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\obj\Debug\net10.0\WeatherLookup.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\obj\Debug\net10.0\WeatherLookup.dll
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\obj\Debug\net10.0\refint\WeatherLookup.dll
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\obj\Debug\net10.0\WeatherLookup.pdb
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\obj\Debug\net10.0\WeatherLookup.genruntimeconfig.cache
+C:\Users\HP\source\repos\WeatherLookup\WeatherLookup\obj\Debug\net10.0\ref\WeatherLookup.dll

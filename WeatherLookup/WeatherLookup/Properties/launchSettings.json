@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WeatherLookup": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OPENWEATHER_APIKEY": "37b275682e485bb513adbf7ba854a11a"
+      }
+    }
+  }
+}
