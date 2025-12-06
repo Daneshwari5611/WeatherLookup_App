@@ -22,9 +22,13 @@ Uses HTTPClient and JSON Parsing
 
 🛠️ Tech Stack
 C# - Application logic
+
 .NET-	Console app runtime
+
 HTTPClient - Send request to weather API
+
 System.Text.Json -	Parse JSON response
+
 OpenWeather - API	Fetch real-time data
 
 📌 How to Run the Project
